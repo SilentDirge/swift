@@ -384,7 +384,6 @@ extension Mirror {
     var customMirror: Mirror { return mirror }
   }
 
-  /// Return a specific descendant of the reflected subject, or `nil`
   /// Returns a specific descendant of the reflected subject, or `nil`
   /// if no such descendant exists.
   ///
